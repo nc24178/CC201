@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-02-05 08:11:20",
+    "level": "ERROR",
+    "service": "db",
+    "message": "DB timeout while fetching user profile"
+  },
+  {
+    "timestamp": "2026-02-05 08:11:21",
+    "level": "INFO",
+    "service": "auth",
+    "message": "User login success"
+  },
+  {
+    "timestamp": "2026-02-05 08:11:24",
+    "level": "INFO",
+    "service": "storage",
+    "message": "File uploaded id=file_123 bytes=5000"
+  },
+  {
+    "timestamp": "2026-02-05 08:11:26",
+    "level": "INFO",
+    "service": "scheduler",
+    "message": ""
+  },
+  {
+    "timestamp": "2026-02-05 08:11:27",
+    "level": "ERROR",
+    "service": "api",
+    "message": "Unhandled exception type=TimeoutError message=null value"
+  },
+  {
+    "timestamp": "2026-02-05 08:11:29",
+    "level": "INFO",
+    "service": "frontend",
+    "message": "Rendered page /home"
+  }
+]
